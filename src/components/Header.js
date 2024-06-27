@@ -1,4 +1,4 @@
-import Picture from "../assets/toji1.webp";
+import Picture from "../assets/toji3.webp";
 import LocationIcon from "../logo/location-sm.svg";
 import { IconLinks } from "./IconLinks";
 
